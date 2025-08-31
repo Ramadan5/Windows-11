@@ -6,9 +6,6 @@ services:
       VERSION: "11"
       RAM_SIZE: "16G"
       CPU_CORES: "4"
-      DISK_SIZE: "256G"
-      USERNAME: "Muhammad"
-      PASSWORD: "admin"
     devices:
       - /dev/kvm
       - /dev/net/tun
